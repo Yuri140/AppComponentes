@@ -10,14 +10,14 @@
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="60dp"
+        android:layout_height="40dp"
         android:text="Responda as perguntas abaixo:" />
 
     <ImageView
         android:layout_width="411dp"
         android:layout_height="200dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/blood" />
+        android:src="@drawable/exame" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -43,6 +43,33 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Tem 7 litros. São retirados 1,5 litros" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Quais dos listados a baixo são paises ”?"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grajau"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Irlanda"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Londres"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tunisia"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Quais foram os impactos do triangulo rosa no mundo?"
+
+
 
 
 
